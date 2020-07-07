@@ -1,0 +1,11 @@
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojResolveAssemblyReference.cache
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+C:\Users\G\Documents\tugas\pemrograman\UAS\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
